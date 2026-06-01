@@ -1,0 +1,1290 @@
+{
+    "salemlesiw": [
+        {
+            "qq": "Assalawma áleykum",
+            "uz": "Assalomu alaykum",
+            "example_qq": "Assalawma áleykum, jaqsısız ba?",
+            "example_uz": "Assalomu alaykum, yaxshimisiz?"
+        },
+        {
+            "qq": "Qayırlı tań",
+            "uz": "Xayrli tong",
+            "example_qq": "Qayırlı tań, barlıqqa jaqsı keyipiyat tileymen!",
+            "example_uz": "Xayrli tong, barchaga yaxshi kayfiyat tilayman!"
+        },
+        {
+            "qq": "Qayırlı kún",
+            "uz": "Xayrli kun",
+            "example_qq": "Qayırlı kún, kúnimiz awmetli ótsin.",
+            "example_uz": "Xayrli kun, kunimiz omadli o'tsin."
+        },
+        {
+            "qq": "Qayırlı kesh",
+            "uz": "Xayrli kech",
+            "example_qq": "Qayırlı kesh, demalıs waqtı keldi.",
+            "example_uz": "Xayrli kech, dam olish vaqti keldi."
+        },
+        {
+            "qq": "Xosh keldińiz",
+            "uz": "Xush kelibsiz",
+            "example_qq": "Bizdiń úyge xosh keldińiz!",
+            "example_uz": "Bizning uyga xush kelibsiz!"
+        },
+        {
+            "qq": "Islerińiz qalay",
+            "uz": "Ishlaringiz qanday",
+            "example_qq": "Kórispegeli kóp boldı, islerińiz qalay?",
+            "example_uz": "Ko'rishmaganimizga ko'p bo'ldi, ishlaringiz qanday?"
+        },
+        {
+            "qq": "Densawlıǵıńız qalay",
+            "uz": "Sog'lig'ingiz qanday",
+            "example_qq": "Úydegi adamlar jaqsıma, densawlıǵıńız qalay?",
+            "example_uz": "Uydagilar yaxshimi, sog'lig'ingiz qanday?"
+        },
+        {
+            "qq": "Sizdi kórgenimnen quwanıshlıman",
+            "uz": "Sizni ko'rganimdan xursandman",
+            "example_qq": "Kelgenińiz jaqsı boldı, sizdi kórgenimnen quwanıshlıman.",
+            "example_uz": "Kelganingiz yaxshi bo'ldi, sizni ko'rganimdan xursandman."
+        },
+        {
+            "qq": "Raxmet",
+            "uz": "Rahmat",
+            "example_qq": "Járdemińiz ushın úlken raxmet.",
+            "example_uz": "Yordamingiz uchun katta rahmat."
+        },
+        {
+            "qq": "Keshirim sorayman",
+            "uz": "Uzr so'rayman / Kechirasiz",
+            "example_qq": "Keshikkenim ushın keshirim sorayman.",
+            "example_uz": "Kechikkanim uchun uzr so'rayman."
+        },
+        {
+            "qq": "Járdem bere alasız ba",
+            "uz": "Yordam bera olasizmi",
+            "example_qq": "Bul máselede maǵan járdem bere alasız ba?",
+            "example_uz": "Bu masalada menga yordam bera olasizmi?"
+        },
+        {
+            "qq": "Qutlıqlayman",
+            "uz": "Tabriklayman",
+            "example_qq": "Jańa jıl bayramıńız benen qutlıqlayman.",
+            "example_uz": "Yangi yil bayrami bilan tabriklayman."
+        },
+        {
+            "qq": "Awmet tileymen",
+            "uz": "Omad tilayman",
+            "example_qq": "Imtixanlarda sizge awmet tileymen!",
+            "example_uz": "Imtihonlarda sizga omad tilayman!"
+        },
+        {
+            "qq": "Túsindim",
+            "uz": "Tushundim",
+            "example_qq": "Aytqan gápińizdi júdá jaqsı túsindim.",
+            "example_uz": "Aytgan gapingizni juda yaxshi tushundim."
+        },
+        {
+            "qq": "Túsinbedim",
+            "uz": "Tushunmadim",
+            "example_qq": "Ne dep atırǵanıńızdı túsinbedim, qayta ayta alasız ba?",
+            "example_uz": "Nima deyotganingizni tushunmadim, qayta ayta olasizmi?"
+        },
+        {
+            "qq": "Álbette",
+            "uz": "Albatta",
+            "example_qq": "Álbette, aytqanıńızdı orınlayman.",
+            "example_uz": "Albatta, aytganingizni bajaraman."
+        },
+        {
+            "qq": "Saw bolıń",
+            "uz": "Xayr / Salomat bo'ling",
+            "example_qq": "Jumıslarıńızǵa awmet, saw bolıń.",
+            "example_uz": "Ishlaringizga omad, salomat bo'ling."
+        },
+        {
+            "qq": "Kóriskenimizshe",
+            "uz": "Ko'rishguncha",
+            "example_qq": "Erteńge shekem kóriskenimizshe.",
+            "example_uz": "Ertagacha ko'rishguncha."
+        },
+        {
+            "qq": "Kelisińiz",
+            "uz": "Keling",
+            "example_qq": "Beri kelisińiz, sizge gápim bar.",
+            "example_uz": "Bu yoqqa keling, sizga gapim bor."
+        },
+        {
+            "qq": "Tanısqanımızdan quwanıshlıman",
+            "uz": "Tanishganimdan xursandman",
+            "example_qq": "Siz benen tanısqanımızdan júdá quwanıshlıman.",
+            "example_uz": "Siz bilan tanishganimdan juda xursandman."
+        }
+    ],
+    "kundelikli": [
+        {
+            "qq": "Úy",
+            "uz": "Uy",
+            "example_qq": "Men úyge qaytıp baratırman.",
+            "example_uz": "Men uyga qaytib ketyapman."
+        },
+        {
+            "qq": "Jumıs",
+            "uz": "Ish",
+            "example_qq": "Búgin jumısım júdá kóp.",
+            "example_uz": "Bugun ishim juda ko'p."
+        },
+        {
+            "qq": "Kóshe",
+            "uz": "Ko'cha",
+            "example_qq": "Kóshede hawa rayı jaqsı.",
+            "example_uz": "Ko'chada ob-havo yaxshi."
+        },
+        {
+            "qq": "Jol",
+            "uz": "Yo'l",
+            "example_qq": "Awılǵa baratuǵın jol uzaq.",
+            "example_uz": "Qishloqqa boradigan yo'l uzoq."
+        },
+        {
+            "qq": "Awqat",
+            "uz": "Ovqat",
+            "example_qq": "Keshki awqattı iship atırmız.",
+            "example_uz": "Kechki ovqatni yeyapmiz."
+        },
+        {
+            "qq": "Uyqı",
+            "uz": "Uyqu",
+            "example_qq": "Kesh qaldım, uyqım kelip atır.",
+            "example_uz": "Kech qoldim, uyqum kelyapti."
+        },
+        {
+            "qq": "Demalıs",
+            "uz": "Dam olish",
+            "example_qq": "Demalıs kúnleri úydemen.",
+            "example_uz": "Dam olish kunlari uydaman."
+        },
+        {
+            "qq": "Pul",
+            "uz": "Pul",
+            "example_qq": "Buning bahası qansha pul boladı?",
+            "example_uz": "Buning narxi qancha pul bo'ladi?"
+        },
+        {
+            "qq": "Dúkan",
+            "uz": "Do'kon",
+            "example_qq": "Dúkannan nan alıp kel.",
+            "example_uz": "Do'kondan non olib kel."
+        },
+        {
+            "qq": "Bazar",
+            "uz": "Bozor",
+            "example_qq": "Bazarǵa barıw kerek bolıp tur.",
+            "example_uz": "Bozorga borish kerak bo'lib turibdi."
+        },
+        {
+            "qq": "Telefon",
+            "uz": "Telefon",
+            "example_qq": "Maǵan telefon etip jiberiń.",
+            "example_uz": "Menga telefon qilib yuboring."
+        },
+        {
+            "qq": "Xabar",
+            "uz": "Xabar",
+            "example_qq": "Men bir jaqsı jańa xabar esittim.",
+            "example_uz": "Men bir yaxshi yangi xabar eshitdim."
+        },
+        {
+            "qq": "Adam",
+            "uz": "Odam",
+            "example_qq": "Kóshede adam júdá kóp.",
+            "example_uz": "Ko'chada odam juda ko'p."
+        },
+        {
+            "qq": "Qala",
+            "uz": "Shahar",
+            "example_qq": "Nókis qalası kúnnen-kúnge rawajlanıp atır.",
+            "example_uz": "Nukus shahri kundan-kunga rivojlanyapti."
+        },
+        {
+            "qq": "Awıl",
+            "uz": "Qishloq",
+            "example_qq": "Jazda awılǵa dem alıwǵa kettim.",
+            "example_uz": "Yozda qishloqqa dam olishga ketdim."
+        },
+        {
+            "qq": "Mashina",
+            "uz": "Mashina",
+            "example_qq": "Jolda mashina kóp.",
+            "example_uz": "Yo'lda mashina ko'p."
+        },
+        {
+            "qq": "Awa",
+            "uz": "Ha",
+            "example_qq": "Awa, men sizdiń gápińizdi túsindim.",
+            "example_uz": "Ha, men sizning gapingizni tushundim."
+        },
+        {
+            "qq": "Yaq",
+            "uz": "Yo'q",
+            "example_qq": "Yaq, men ol jerge baralmayman.",
+            "example_uz": "Yo'q, men u yerga bora olmayman."
+        },
+        {
+            "qq": "Jaqsı",
+            "uz": "Yaxshi",
+            "example_qq": "Hámme nárse jaqsı boladı.",
+            "example_uz": "Hamma narsa yaxshi bo'ladi."
+        },
+        {
+            "qq": "Jaman",
+            "uz": "Yomon",
+            "example_qq": "Búgin hawa jaman emes.",
+            "example_uz": "Bugun havo yomon emas."
+        }
+    ],
+    "waqit": [
+        {
+            "qq": "Búgin",
+            "uz": "Bugun",
+            "example_qq": "Búgin hawa rayı qanday?",
+            "example_uz": "Bugun ob-havo qanday?"
+        },
+        {
+            "qq": "Erteń",
+            "uz": "Ertaga",
+            "example_qq": "Erteń jumısqa baraman.",
+            "example_uz": "Ertaga ishga boraman."
+        },
+        {
+            "qq": "Keshe",
+            "uz": "Kecha",
+            "example_qq": "Keshe doslarım menen kóristim.",
+            "example_uz": "Kecha do'stlarim bilan ko'rishdim."
+        },
+        {
+            "qq": "Búrsinigúni",
+            "uz": "Indinga",
+            "example_qq": "Búrsinigúni imtixan boladı.",
+            "example_uz": "Indinga imtihon bo'ladi."
+        },
+        {
+            "qq": "Aldınǵı kúni",
+            "uz": "O'tgan kuni",
+            "example_qq": "Ol aldınǵı kúni kelgen edi.",
+            "example_uz": "U o'tgan kuni kelgan edi."
+        },
+        {
+            "qq": "Házir",
+            "uz": "Hozir",
+            "example_qq": "Men házir bántpen.",
+            "example_uz": "Men hozir bandman."
+        },
+        {
+            "qq": "Keyin",
+            "uz": "Keyin",
+            "example_qq": "Bul másele boyınsha keyin gáplesemiz.",
+            "example_uz": "Bu masala bo'yicha keyin gaplashamiz."
+        },
+        {
+            "qq": "Erte",
+            "uz": "Erta",
+            "example_qq": "Men tań erte oyanaman.",
+            "example_uz": "Men tong erta uyg'onaman."
+        },
+        {
+            "qq": "Kesh",
+            "uz": "Kech",
+            "example_qq": "Jumıstan júdá kesh qayttım.",
+            "example_uz": "Ishdan juda kech qaytdim."
+        },
+        {
+            "qq": "Tań",
+            "uz": "Tong",
+            "example_qq": "Tań attı, quyash shıqtı.",
+            "example_uz": "Tong otdi, quyosh chiqdi."
+        },
+        {
+            "qq": "Kúndiz",
+            "uz": "Kunduzi",
+            "example_qq": "Kúndizi hawa ıssı boladı.",
+            "example_uz": "Kunduzi havo issiq bo'ladi."
+        },
+        {
+            "qq": "Tún",
+            "uz": "Tun",
+            "example_qq": "Túnde hawa salqın boladı.",
+            "example_uz": "Tunda havo salqin bo'ladi."
+        },
+        {
+            "qq": "Saat",
+            "uz": "Soat",
+            "example_qq": "Saat neshe boldı?",
+            "example_uz": "Soat necha bo'ldi?"
+        },
+        {
+            "qq": "Minut",
+            "uz": "Daqiqa",
+            "example_qq": "Bes minut kútiń, házir baraman.",
+            "example_uz": "Besh daqiqa kuting, hozir boraman."
+        },
+        {
+            "qq": "Súbhi",
+            "uz": "Sahar",
+            "example_qq": "Ata-babalarımız súbhi waqtında oyanǵan.",
+            "example_uz": "Ota-bobolarimiz sahar vaqtida uyg'ongan."
+        },
+        {
+            "qq": "Kún",
+            "uz": "Kun",
+            "example_qq": "Háptege jeti kún bar.",
+            "example_uz": "Haftada yetti kun bor."
+        },
+        {
+            "qq": "Hápte",
+            "uz": "Hafta",
+            "example_qq": "Keyingi hápte demalısqa shıǵaman.",
+            "example_uz": "Keyingi hafta dam olishga chiqaman."
+        },
+        {
+            "qq": "Ay",
+            "uz": "Oy",
+            "example_qq": "Bul ayda jumıs kóp boladı.",
+            "example_uz": "Bu oyda ish ko'p bo'ladi."
+        },
+        {
+            "qq": "Jıl",
+            "uz": "Yil",
+            "example_qq": "Jańa jıl bayramı jaqınlasıp atır.",
+            "example_uz": "Yangi yil bayrami yaqinlashyapti."
+        },
+        {
+            "qq": "Máwsim",
+            "uz": "Fasl",
+            "example_qq": "Jaz máwsimin júdá jaqsı kóremen.",
+            "example_uz": "Yoz faslini juda yaxshi ko'raman."
+        }
+    ],
+    "aziq_awqat": [
+        {
+            "qq": "Nan",
+            "uz": "Non",
+            "example_qq": "Dúkannan taba nan alıp kel.",
+            "example_uz": "Do'kondan yopgan non olib kel."
+        },
+        {
+            "qq": "Suw",
+            "uz": "Suv",
+            "example_qq": "Maǵan bir stakan suw beriń.",
+            "example_uz": "Menga bir stakan suv bering."
+        },
+        {
+            "qq": "Shay",
+            "uz": "Choy",
+            "example_qq": "Issı shay ishkim kelip atır.",
+            "example_uz": "Issiq choy ichkim kelyapti."
+        },
+        {
+            "qq": "Gósh",
+            "uz": "Go'sht",
+            "example_qq": "Búgin góshli awqat isleyemiz.",
+            "example_uz": "Bugun go'shtli ovqat qilamiz."
+        },
+        {
+            "qq": "Duz",
+            "uz": "Tuz",
+            "example_qq": "Awqattıń duzı azlew bolıp tur.",
+            "example_uz": "Ovqatning tuzi ozroq bo'libdi."
+        },
+        {
+            "qq": "Qant",
+            "uz": "Shakar",
+            "example_qq": "Shayǵa qant saldıńız ba?",
+            "example_uz": "Choyga shakar soldingizmi?"
+        },
+        {
+            "qq": "Sút",
+            "uz": "Sut",
+            "example_qq": "Balalar keshqurın sút ishedi.",
+            "example_uz": "Bolalar kechqurun sut ichadi."
+        },
+        {
+            "qq": "Qatıq",
+            "uz": "Qatiq",
+            "example_qq": "Bir pıyala qatıq alıp kel.",
+            "example_uz": "Bir piyola qatiq olib kel."
+        },
+        {
+            "qq": "May",
+            "uz": "Yog'",
+            "example_qq": "Palawǵa paxta mayın islettik.",
+            "example_uz": "Palovga paxta yog'ini ishlatdik."
+        },
+        {
+            "qq": "Gúrish",
+            "uz": "Guruch",
+            "example_qq": "Gúrishten palaw demleymiz.",
+            "example_uz": "Guruchdan palov damlaymiz."
+        },
+        {
+            "qq": "Alma",
+            "uz": "Olma",
+            "example_qq": "Men alma jedim, ol júdá tátbi.",
+            "example_uz": "Men olma yedim, u juda shirin."
+        },
+        {
+            "qq": "Júzim",
+            "uz": "Uzum",
+            "example_qq": "Baǵımızda júzim pıstı.",
+            "example_uz": "Bog'imizda uzum pishdi."
+        },
+        {
+            "qq": "Qawın",
+            "uz": "Qovun",
+            "example_qq": "Qawın júdá shiyrin eken.",
+            "example_uz": "Qovun juda shirin ekan."
+        },
+        {
+            "qq": "Ǵarbız",
+            "uz": "Tarvuz",
+            "example_qq": "Jazda ǵarbız jew jaqsı.",
+            "example_uz": "Yozda tarvuz yeyish yaxshi."
+        },
+        {
+            "qq": "Piyaz",
+            "uz": "Piyoz",
+            "example_qq": "Piyaz arshıǵanda kóz jılaydı.",
+            "example_uz": "Piyoz archganda ko'z yoshlanadi."
+        },
+        {
+            "qq": "Kartoshka",
+            "uz": "Kartoshka",
+            "example_qq": "Bazardan kartoshka satıp aldım.",
+            "example_uz": "Bozordan kartoshka sotib oldim."
+        },
+        {
+            "qq": "Sábiz",
+            "uz": "Sabzi",
+            "example_qq": "Palaw ushın sábiz tuwrap atırman.",
+            "example_uz": "Palov uchun sabzi to'g'rayapman."
+        },
+        {
+            "qq": "Máyek",
+            "uz": "Tuxum",
+            "example_qq": "Tańerteń máyek quwırıp jedik.",
+            "example_uz": "Ertalab tuxum qovurib yedik."
+        },
+        {
+            "qq": "Bal",
+            "uz": "Asal",
+            "example_qq": "Awırǵanda bal jegen jaqsı.",
+            "example_uz": "Kasal bo'lganda asal yeyish yaxshi."
+        },
+        {
+            "qq": "Sorpa",
+            "uz": "Sho'rva",
+            "example_qq": "Túski awqatqa sorpa ishdik.",
+            "example_uz": "Tushki ovqatga sho'rva ichdik."
+        }
+    ],
+    "tabiyaat": [
+        {
+            "qq": "Aspan",
+            "uz": "Osmon",
+            "example_qq": "Aspan bultlı bolıp tur.",
+            "example_uz": "Osmon bulutli bo'lib turibdi."
+        },
+        {
+            "qq": "Quyash",
+            "uz": "Quyosh",
+            "example_qq": "Quyash nurın shashıp tur.",
+            "example_uz": "Quyosh nurini sochib turibdi."
+        },
+        {
+            "qq": "Aǵash",
+            "uz": "Daraxt",
+            "example_qq": "Baǵda aǵashlar kóp.",
+            "example_uz": "Bog'da daraxtlar ko'p."
+        },
+        {
+            "qq": "Samal",
+            "uz": "Shamol",
+            "example_qq": "Sırtta qattı samal esip atır.",
+            "example_uz": "Tashqarida qattiq shamol esyapti."
+        },
+        {
+            "qq": "Jawın",
+            "uz": "Yomg'ir",
+            "example_qq": "Búgin jawın jawıwı múmkin.",
+            "example_uz": "Bugun yomg'ir yog'ishi mumkin."
+        },
+        {
+            "qq": "Jer",
+            "uz": "Yer",
+            "example_qq": "Jer juwsan iysine toldı.",
+            "example_uz": "Yer shuvoq isiga to'ldi."
+        },
+        {
+            "qq": "Suw",
+            "uz": "Suv (Daryo, ko'l)",
+            "example_qq": "Tabiyǵıy suw dárekleri bar.",
+            "example_uz": "Tabiiy suv manbalari bor."
+        },
+        {
+            "qq": "Dárya",
+            "uz": "Daryo",
+            "example_qq": "Ámiwdárya uzaqtan aǵıp keledi.",
+            "example_uz": "Amudaryo uzoqdan oqib keladi."
+        },
+        {
+            "qq": "Kól",
+            "uz": "Ko'l",
+            "example_qq": "Kólde quslar ushıp júr.",
+            "example_uz": "Ko'lda qushlar uchib yuribdi."
+        },
+        {
+            "qq": "Teńiz",
+            "uz": "Dengiz",
+            "example_qq": "Aral teńizi haqqında aytıldı.",
+            "example_uz": "Orol dengizi haqida aytildi."
+        },
+        {
+            "qq": "Taw",
+            "uz": "Tog'",
+            "example_qq": "Tawlı jerler hawalsı boladı.",
+            "example_uz": "Tog'li yerlar havoli bo'ladi."
+        },
+        {
+            "qq": "Terek",
+            "uz": "Terak",
+            "example_qq": "Terekler japıraǵın tókti.",
+            "example_uz": "Teraklar bargini to'kdi."
+        },
+        {
+            "qq": "Gúl",
+            "uz": "Gul",
+            "example_qq": "Baǵshada hár túrli gúl ósiriledi.",
+            "example_uz": "Bog'chada har xil gul o'stiriladi."
+        },
+        {
+            "qq": "Shóp",
+            "uz": "O't / Maysa",
+            "example_qq": "Qoylardı shópke jaydı.",
+            "example_uz": "Qo'ylarni o'tga yoydi."
+        },
+        {
+            "qq": "Qum",
+            "uz": "Qum",
+            "example_qq": "Qumlı jerde yulǵın ósedi.",
+            "example_uz": "Qumli yerda yulg'un o'sadi."
+        },
+        {
+            "qq": "Topıraq",
+            "uz": "Tuproq",
+            "example_qq": "Topıraq júdá ızǵar eken.",
+            "example_uz": "Tuproq juda nam ekan."
+        },
+        {
+            "qq": "Bult",
+            "uz": "Bulut",
+            "example_qq": "Bultlı kún jawın keltiredi.",
+            "example_uz": "Bulutli kun yomg'ir keltiradi."
+        },
+        {
+            "qq": "Qar",
+            "uz": "Qor",
+            "example_qq": "Qısta qalın qar jawdı.",
+            "example_uz": "Qishda qalin qor yog'di."
+        },
+        {
+            "qq": "Muz",
+            "uz": "Muz",
+            "example_qq": "Dárya beti muzlap qalıptı.",
+            "example_uz": "Daryo yuzi muzlab qolibdi."
+        },
+        {
+            "qq": "Juldız",
+            "uz": "Yulduz",
+            "example_qq": "Túnde juldızlar jarqırap tur.",
+            "example_uz": "Tunda yulduzlar charaqlab turibdi."
+        }
+    ],
+    "oqiw": [
+        {
+            "qq": "Kitap",
+            "uz": "Kitob",
+            "example_qq": "Men kitap oqıwdı jaqsı kóremen.",
+            "example_uz": "Men kitob o'qishni yaxshi ko'raman."
+        },
+        {
+            "qq": "Qálem",
+            "uz": "Qalam",
+            "example_qq": "Qálem hám dápter alıp kel.",
+            "example_uz": "Qalam va daftar olib kel."
+        },
+        {
+            "qq": "Mektep",
+            "uz": "Maktab",
+            "example_qq": "Mektepke erte bardım.",
+            "example_uz": "Maktabga erta bordim."
+        },
+        {
+            "qq": "Sabaq",
+            "uz": "Dars",
+            "example_qq": "Sabaq waqtında baslandı.",
+            "example_uz": "Dars vaqtida boshlandi."
+        },
+        {
+            "qq": "Muǵallim",
+            "uz": "O'qituvchi",
+            "example_qq": "Muǵallim jańa tema túsindirdi.",
+            "example_uz": "O'qituvchi yangi mavzu tushuntirdi."
+        },
+        {
+            "qq": "Dápter",
+            "uz": "Daftar",
+            "example_qq": "Dápterge tapsırmanı jazıń.",
+            "example_uz": "Daftarga topshiriqni yozing."
+        },
+        {
+            "qq": "Oqıwshı",
+            "uz": "O'quvchi",
+            "example_qq": "Klasta jigirma oqıwshı bar.",
+            "example_uz": "Sinfda yigirma o'quvchi bor."
+        },
+        {
+            "qq": "Student",
+            "uz": "Talaba",
+            "example_qq": "Universitette student bolıp oqıyman.",
+            "example_uz": "Universitetda talaba bo'lib o'qiyman."
+        },
+        {
+            "qq": "Kúndelik",
+            "uz": "Kundalik",
+            "example_qq": "Kúndelikke bahalardı qoydırdım.",
+            "example_uz": "Kundalikka baholarni qo'ydirdim."
+        },
+        {
+            "qq": "Sızǵısh",
+            "uz": "Chizg'ich",
+            "example_qq": "Geometriya sabaǵında sızǵısh kerek.",
+            "example_uz": "Geometriya darsida chizg'ich kerak."
+        },
+        {
+            "qq": "Sumka",
+            "uz": "Sumka",
+            "example_qq": "Mektep sumkamda kitaplar kóp.",
+            "example_uz": "Maktab sumkamda kitoblar ko'p."
+        },
+        {
+            "qq": "Sabıq",
+            "uz": "O'quv darsi",
+            "example_qq": "Tariyx sabıǵı qızıqlı ótti.",
+            "example_uz": "Tarix darsi qiziqarli o'tdi."
+        },
+        {
+            "qq": "Parta",
+            "uz": "Parta",
+            "example_qq": "Oqıwshılar partada otır.",
+            "example_uz": "O'quvchilar partada o'tiribdi."
+        },
+        {
+            "qq": "Tiykar",
+            "uz": "Asos",
+            "example_qq": "Tema tiykarın jaqsı biliw kerek.",
+            "example_uz": "Mavzu asosini yaxshi bilish kerak."
+        },
+        {
+            "qq": "Imtixan",
+            "uz": "Imtihon",
+            "example_qq": "Erteń fizika páninen imtixan bar.",
+            "example_uz": "Ertaga fizika fanidan imtihon bor."
+        },
+        {
+            "qq": "Baha",
+            "uz": "Baho",
+            "example_qq": "Sabaqtan bes degen baha aldım.",
+            "example_uz": "Darsdan besh degan baho oldim."
+        },
+        {
+            "qq": "Universitet",
+            "uz": "Universitet",
+            "example_qq": "Ol universitetke oqıwǵa kirdi.",
+            "example_uz": "U universitetga o'qishga kirdi."
+        },
+        {
+            "qq": "Oqıw",
+            "uz": "O'qish",
+            "example_qq": "Oqıw oqıw iyne menen qudıq qazǵanday.",
+            "example_uz": "O'qish igna bilan quduq qaziganday."
+        },
+        {
+            "qq": "Jazıw",
+            "uz": "Yozuv",
+            "example_qq": "Doskaǵa taza jazıw jazılıptı.",
+            "example_uz": "Doskaga toza yozuv yozilibdi."
+        },
+        {
+            "qq": "Tánepis",
+            "uz": "Tanaffus",
+            "example_qq": "Tánepis waqtında sırtqa shıqtıq.",
+            "example_uz": "Tanaffus vaqtida tashqariga chiqdik."
+        }
+    ],
+    "kiyimler": [
+        {
+            "qq": "Kóylek",
+            "uz": "Ko'ylak",
+            "example_qq": "Jańa kóylek satıp aldım.",
+            "example_uz": "Yangi ko'ylak sotib oldim."
+        },
+        {
+            "qq": "Ayaq kiyim",
+            "uz": "Oyoq kiyim / Poyabzal",
+            "example_qq": "Ayaq kiyimim qıstı.",
+            "example_uz": "Oyoq kiyimim qisdi."
+        },
+        {
+            "qq": "Bas kiyim",
+            "uz": "Bosh kiyim / Shapka",
+            "example_qq": "Qısta bas kiyim kiyiw kerek.",
+            "example_uz": "Qishda bosh kiyim kiyish kerak."
+        },
+        {
+            "qq": "Shalbar",
+            "uz": "Shim",
+            "example_qq": "Maǵan qara shalbar kerek.",
+            "example_uz": "Menga qora shim kerak."
+        },
+        {
+            "qq": "Kóstyum",
+            "uz": "Kostyum",
+            "example_qq": "Bayramǵa kóstyum kiyip bardım.",
+            "example_uz": "Bayramga kostyum kiyib bordim."
+        },
+        {
+            "qq": "Jempir",
+            "uz": "Jemper",
+            "example_qq": "Jıllı jempirimni kiyip aldım.",
+            "example_uz": "Issiq jemperimni kiyib oldim."
+        },
+        {
+            "qq": "Palto",
+            "uz": "Palto",
+            "example_qq": "Qıs kúnleri palto kiyiledi.",
+            "example_uz": "Qish kunlari palto kiyiladi."
+        },
+        {
+            "qq": "Geyme",
+            "uz": "Kiyim",
+            "example_qq": "Kiyimlerdi juwıwǵa saldım.",
+            "example_uz": "Kiyimlarni yuvishga soldim."
+        },
+        {
+            "qq": "Belbew",
+            "uz": "Kamar",
+            "example_qq": "Belbewimdi taǵıp atırman.",
+            "example_uz": "Kamarimni taqyapman."
+        },
+        {
+            "qq": "Noskiy",
+            "uz": "Paypoq",
+            "example_qq": "Taza noskiy kiydim.",
+            "example_uz": "Toza paypoq kiydim."
+        },
+        {
+            "qq": "Qolǵap",
+            "uz": "Qo'lqop",
+            "example_qq": "Suwıqta qolǵap kiyiw kerek.",
+            "example_uz": "Sovuqda qo'lqop kiyish kerak."
+        },
+        {
+            "qq": "Shal",
+            "uz": "Ro'mol",
+            "example_qq": "Ajem qara shal orap otır.",
+            "example_uz": "Buvim qora ro'mol o'rab o'tiribdi."
+        },
+        {
+            "qq": "Qalpaq",
+            "uz": "Qalpoq",
+            "example_qq": "Kúnde qalpaq kiyip al.",
+            "example_uz": "Kunduzi qalpoq kiyib ol."
+        },
+        {
+            "qq": "Etik",
+            "uz": "Etik",
+            "example_qq": "Jawında rezin etik kiydi.",
+            "example_uz": "Yomg'irda rezina etik kiydi."
+        },
+        {
+            "qq": "Tufli",
+            "uz": "Tufli",
+            "example_qq": "Jańa tuflim qosılıp tur.",
+            "example_uz": "Yangi tuflim yarashib turibdi."
+        },
+        {
+            "qq": "Shım",
+            "uz": "Shim",
+            "example_qq": "Mektepke forma shım kiydik.",
+            "example_uz": "Maktabga forma shim kiydik."
+        },
+        {
+            "qq": "Jıńǵıl",
+            "uz": "Qishki kiyim",
+            "example_qq": "Jıńǵıllar sandıqtan shıǵarıldı.",
+            "example_uz": "Qishki kiyimlar sandiqdan chiqarildi."
+        },
+        {
+            "qq": "Jawlıq",
+            "uz": "Ro'mol",
+            "example_qq": "Basıńa jawlıq salıp al.",
+            "example_uz": "Boshingga ro'mol solib ol."
+        },
+        {
+            "qq": "Jırtıq",
+            "uz": "Yirtiq",
+            "example_qq": "Onıń kiyimi jırtıq eken.",
+            "example_uz": "Uning kiyimi yirtiq ekan."
+        },
+        {
+            "qq": "Taza kiyim",
+            "uz": "Yangi kiyim",
+            "example_qq": "Taza kiyimlerim bar.",
+            "example_uz": "Yangi kiyimlarim bor."
+        }
+    ],
+    "janiwarlar": [
+        {
+            "qq": "Mıshıq",
+            "uz": "Mushuk",
+            "example_qq": "Mıshıq miyoladı.",
+            "example_uz": "Mushuk miyovladi."
+        },
+        {
+            "qq": "Iyt",
+            "uz": "Kuchuk",
+            "example_qq": "Bul iyt.",
+            "example_uz": "Bu kuchuk."
+        },
+        {
+            "qq": "Qoyan",
+            "uz": "Quyon",
+            "example_qq": "Qoyan sekirdi.",
+            "example_uz": "Quyon sakradi."
+        },
+        {
+            "qq": "At",
+            "uz": "Ot",
+            "example_qq": "At shaptı.",
+            "example_uz": "Ot chopdi."
+        },
+        {
+            "qq": "Qus",
+            "uz": "Qush",
+            "example_qq": "Qus ushtı.",
+            "example_uz": "Qush uchdi."
+        },
+        {
+            "qq": "Sıyır",
+            "uz": "Sigir",
+            "example_qq": "Sıyır sút beredi.",
+            "example_uz": "Sigir sut beradi."
+        },
+        {
+            "qq": "Qoy",
+            "uz": "Qo'y",
+            "example_qq": "Qoy ot otlaydı.",
+            "example_uz": "Qo'y o't o'tlaydi."
+        },
+        {
+            "qq": "Tawıq",
+            "uz": "Tovuq",
+            "example_qq": "Tawıq máyek tuwdı.",
+            "example_uz": "Tovuq tuxum tug'di."
+        },
+        {
+            "qq": "Ayıw",
+            "uz": "Ayiq",
+            "example_qq": "Úlken ayıw.",
+            "example_uz": "Katta ayiq."
+        },
+        {
+            "qq": "Pıl",
+            "uz": "Fil",
+            "example_qq": "Pıldiń murnı uzın.",
+            "example_uz": "Filning burni uzun."
+        }
+    ],
+    "miyweler": [
+        {
+            "qq": "Alma",
+            "uz": "Olma",
+            "example_qq": "Qızıl alma.",
+            "example_uz": "Qizil olma."
+        },
+        {
+            "qq": "Banan",
+            "uz": "Banan",
+            "example_qq": "Sarı banan.",
+            "example_uz": "Sariq banan."
+        },
+        {
+            "qq": "Ǵarbız",
+            "uz": "Tarvuz",
+            "example_qq": "Ǵarbız shiyrin.",
+            "example_uz": "Tarvuz shirin."
+        },
+        {
+            "qq": "Júzim",
+            "uz": "Uzum",
+            "example_qq": "Júzim jedim.",
+            "example_uz": "Uzum yedim."
+        },
+        {
+            "qq": "Qawın",
+            "uz": "Qovun",
+            "example_qq": "Sarı qawın.",
+            "example_uz": "Sariq qovun."
+        },
+        {
+            "qq": "Anar",
+            "uz": "Anor",
+            "example_qq": "Qızıl anar.",
+            "example_uz": "Qizil anor."
+        },
+        {
+            "qq": "Almurıt",
+            "uz": "Nok",
+            "example_qq": "Tátbi almurıt.",
+            "example_uz": "Shirin nok."
+        },
+        {
+            "qq": "Shiye",
+            "uz": "Gilos",
+            "example_qq": "Shiye pisip tur.",
+            "example_uz": "Gilos pishib turibdi."
+        },
+        {
+            "qq": "Qulpınay",
+            "uz": "Qulupnay",
+            "example_qq": "Qulpınay jedim.",
+            "example_uz": "Qulupnay yedim."
+        },
+        {
+            "qq": "Apelsin",
+            "uz": "Apelsin",
+            "example_qq": "Ádemi apelsin.",
+            "example_uz": "Chiroyli apelsin."
+        }
+    ],
+    "oyinshiqlar": [
+        {
+            "qq": "Top",
+            "uz": "Koptok",
+            "example_qq": "Top oynadım.",
+            "example_uz": "Koptok o'ynadim."
+        },
+        {
+            "qq": "Mashina",
+            "uz": "Mashina",
+            "example_qq": "Oyınshıq mashina.",
+            "example_uz": "O'yinchoq mashina."
+        },
+        {
+            "qq": "Quwırshaq",
+            "uz": "Qo'g'irchoq",
+            "example_qq": "Ádemi quwırshaq.",
+            "example_uz": "Chiroyli qo'g'irchoq."
+        },
+        {
+            "qq": "Ayıwsha",
+            "uz": "Ayiqcha",
+            "example_qq": "Jumsaq ayıwsha.",
+            "example_uz": "Yumshoq ayiqcha."
+        },
+        {
+            "qq": "Shar",
+            "uz": "Shar",
+            "example_qq": "Qızıl shar.",
+            "example_uz": "Qizil shar."
+        },
+        {
+            "qq": "Kubik",
+            "uz": "Kubik",
+            "example_qq": "Kubik oynadıq.",
+            "example_uz": "Kubik o'ynadik."
+        },
+        {
+            "qq": "Poyezd",
+            "uz": "Poyezd",
+            "example_qq": "Oyınshıq poyezd.",
+            "example_uz": "O'yinchoq poyezd."
+        },
+        {
+            "qq": "Samolyot",
+            "uz": "Samolyot",
+            "example_qq": "Samolyot ushtı.",
+            "example_uz": "Samolyot uchdi."
+        },
+        {
+            "qq": "Velosiped",
+            "uz": "Velosiped",
+            "example_qq": "Velosiped aydadım.",
+            "example_uz": "Velosiped haydadim."
+        },
+        {
+            "qq": "Baraban",
+            "uz": "Baraban",
+            "example_qq": "Baraban shaldım.",
+            "example_uz": "Baraban chaldim."
+        }
+    ],
+    "dene_agzalari": [
+        {
+            "qq": "Bas",
+            "uz": "Bosh",
+            "example_qq": "Meniń basım.",
+            "example_uz": "Mening boshim."
+        },
+        {
+            "qq": "Kóz",
+            "uz": "Ko'z",
+            "example_qq": "Eki kózim.",
+            "example_uz": "Ikki ko'zim."
+        },
+        {
+            "qq": "Qulaq",
+            "uz": "Quloq",
+            "example_qq": "Qulaq esitedi.",
+            "example_uz": "Quloq eshitadi."
+        },
+        {
+            "qq": "Murın",
+            "uz": "Burun",
+            "example_qq": "Kishkene murın.",
+            "example_uz": "Kichkina burun."
+        },
+        {
+            "qq": "Awız",
+            "uz": "Og'iz",
+            "example_qq": "Awızıńdı ash.",
+            "example_uz": "Og'zingni och."
+        },
+        {
+            "qq": "Tis",
+            "uz": "Tish",
+            "example_qq": "Tislerimdi juwdım.",
+            "example_uz": "Tishlarimni yuvdim."
+        },
+        {
+            "qq": "Qol",
+            "uz": "Qo'l",
+            "example_qq": "Taza qol.",
+            "example_uz": "Toza qo'l."
+        },
+        {
+            "qq": "Ayaq",
+            "uz": "Oyoq",
+            "example_qq": "Ayaq kiyim.",
+            "example_uz": "Oyoq kiyim."
+        },
+        {
+            "qq": "Shash",
+            "uz": "Soch",
+            "example_qq": "Uzın shash.",
+            "example_uz": "Uzun soch."
+        },
+        {
+            "qq": "Barmaq",
+            "uz": "Barmoq",
+            "example_qq": "Bes barmaq.",
+            "example_uz": "Besh barmoq."
+        }
+    ],
+    "renler": [
+        {
+            "qq": "Qızıl",
+            "uz": "Qizil",
+            "example_qq": "Qızıl alma.",
+            "example_uz": "Qizil olma."
+        },
+        {
+            "qq": "Jasıl",
+            "uz": "Yashil",
+            "example_qq": "Jasıl japıraq.",
+            "example_uz": "Yashil barg."
+        },
+        {
+            "qq": "Sarı",
+            "uz": "Sariq",
+            "example_qq": "Sarı quyash.",
+            "example_uz": "Sariq quyosh."
+        },
+        {
+            "qq": "Kók",
+            "uz": "Ko'k",
+            "example_qq": "Kók aspan.",
+            "example_uz": "Ko'k osmon."
+        },
+        {
+            "qq": "Aq",
+            "uz": "Oq",
+            "example_qq": "Aq qar.",
+            "example_uz": "Oq qor."
+        },
+        {
+            "qq": "Qara",
+            "uz": "Qora",
+            "example_qq": "Qara mıshıq.",
+            "example_uz": "Qora mushuk."
+        },
+        {
+            "qq": "Kúlreń",
+            "uz": "Kulrang",
+            "example_qq": "Kúlreń bult.",
+            "example_uz": "Kulrang bulut."
+        },
+        {
+            "qq": "Qızǵısh",
+            "uz": "Pushti",
+            "example_qq": "Qızǵısh gúl.",
+            "example_uz": "Pushti gul."
+        },
+        {
+            "qq": "Qońır",
+            "uz": "Jigarrang",
+            "example_qq": "Qońır ayıw.",
+            "example_uz": "Jigarrang ayiq."
+        },
+        {
+            "qq": "Apelsin reń",
+            "uz": "Apelsin rang",
+            "example_qq": "Apelsin reń shar.",
+            "example_uz": "Apelsin rangli shar."
+        }
+    ],
+    "sanlar": [
+        {
+            "qq": "Bir",
+            "uz": "Bir",
+            "example_qq": "Bir top.",
+            "example_uz": "Bir koptok."
+        },
+        {
+            "qq": "Eki",
+            "uz": "Ikki",
+            "example_qq": "Eki kóz.",
+            "example_uz": "Ikki ko'z."
+        },
+        {
+            "qq": "Úsh",
+            "uz": "Uch",
+            "example_qq": "Úsh alma.",
+            "example_uz": "Uch olma."
+        },
+        {
+            "qq": "Tórt",
+            "uz": "To'rt",
+            "example_qq": "Tórt qoyan.",
+            "example_uz": "To'rt quyon."
+        },
+        {
+            "qq": "Bes",
+            "uz": "Besh",
+            "example_qq": "Bes barmaq.",
+            "example_uz": "Besh barmoq."
+        },
+        {
+            "qq": "Altı",
+            "uz": "Olti",
+            "example_qq": "Altı shar.",
+            "example_uz": "Olti shar."
+        },
+        {
+            "qq": "Jeti",
+            "uz": "Yetti",
+            "example_qq": "Jeti kún.",
+            "example_uz": "Yetti kun."
+        },
+        {
+            "qq": "Segiz",
+            "uz": "Sakkiz",
+            "example_qq": "Segiz qálem.",
+            "example_uz": "Sakkiz qalam."
+        },
+        {
+            "qq": "Toǵız",
+            "uz": "To'qqiz",
+            "example_qq": "Toǵız gúl.",
+            "example_uz": "To'qqiz gul."
+        },
+        {
+            "qq": "On",
+            "uz": "O'n",
+            "example_qq": "On bala.",
+            "example_uz": "O'n bola."
+        }
+    ],
+    "shanaraq": [
+        {
+            "qq": "Ata",
+            "uz": "Bobo",
+            "example_qq": "Atam keldi.",
+            "example_uz": "Bobom keldi."
+        },
+        {
+            "qq": "Aje",
+            "uz": "Buvi",
+            "example_qq": "Ajem júdá jaqsı.",
+            "example_uz": "Buvim juda yaxshi."
+        },
+        {
+            "qq": "Áke",
+            "uz": "Ota",
+            "example_qq": "Ákem jumısqa ketti.",
+            "example_uz": "Otam ishga ketdi."
+        },
+        {
+            "qq": "Ana",
+            "uz": "Ona",
+            "example_qq": "Anam awqat isledi.",
+            "example_uz": "Onam ovqat qildi."
+        },
+        {
+            "qq": "Aǵa",
+            "uz": "Aka",
+            "example_qq": "Aǵam mektepte.",
+            "example_uz": "Akam maktabda."
+        },
+        {
+            "qq": "Apa",
+            "uz": "Opa",
+            "example_qq": "Apam oqıydı.",
+            "example_uz": "Opam o'qiydi."
+        },
+        {
+            "qq": "Ini",
+            "uz": "Uka",
+            "example_qq": "Inim oynap atır.",
+            "example_uz": "Ukam o'ynayapti."
+        },
+        {
+            "qq": "Qarındas",
+            "uz": "Singil",
+            "example_qq": "Qarındasım kishkene.",
+            "example_uz": "Singlim kichkina."
+        },
+        {
+            "qq": "Bala",
+            "uz": "Bola",
+            "example_qq": "Jılaq bala.",
+            "example_uz": "Yig'loqi bola."
+        },
+        {
+            "qq": "Qız",
+            "uz": "Qiz",
+            "example_qq": "Ádemi qız.",
+            "example_uz": "Chiroyli qiz."
+        }
+    ]
+}
